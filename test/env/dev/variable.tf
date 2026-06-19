@@ -1,0 +1,13 @@
+variable "rgs" {}
+variable "vnets" {}
+variable "subnets" {}
+variable "pips" {}
+variable "nets" {}
+variable "nsgs" {}
+variable "associations" {}
+variable "vms" {}
+variable "stores" {}
+variable "conts" {}
+variable "bastions" {}
+variable "peerings" {}
+variable "rule" {}
